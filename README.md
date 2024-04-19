@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently pursuing **BCA**
 
-- 👨‍💻 All of my projects are available at [about.amanpraaj.eu.org](about.amanpraaj.eu.org)
+- 👨‍💻 All of my projects are available at [about.amanpraaj.eu.org](https://about.amanpraaj.eu.org)
 
 - 💬 Ask me about **Web Devlopment, 3D Animartion**
 
 - 📫 How to reach me **mail@amanpraaj.eu.org**
 
-- 📄 Know about my experiences [about.amanpraaj.eu.org](about.amanpraaj.eu.org)
+- 📄 Know about my experiences [about.amanpraaj.eu.org](https://about.amanpraaj.eu.org)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

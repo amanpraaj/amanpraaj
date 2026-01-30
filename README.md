@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Prajapat</h1>
 <h3 align="center">A passionate frontend developer from Kishangarh</h3>
 
-- 🌱 I’m currently pursuing **BCA**
+- 🌱 Developer at **iBirds**
 
 - 👨‍💻 All of my projects are available at [about.amanpraaj.eu.org](https://about.amanpraaj.eu.org)
 

@@ -101,14 +101,6 @@ mail     : mail@amanpraaj.eu.org
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amanpraaj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%"/>
-</div>
-
----
-
 ## 🐍 Contributions
 
 <div align="center">
